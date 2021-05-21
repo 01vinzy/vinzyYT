@@ -22,17 +22,3 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/773956587164270663.png" />
 </p>
-
-- Dark Mode is the best mode :)
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
