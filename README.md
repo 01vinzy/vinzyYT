@@ -22,3 +22,6 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-1/773956587164270663.png" />
 </p>
+
+### Personal Discord Server
+![Discord Banner 4](https://discordapp.com/api/guilds/840687406982234123/widget.png?style=banner4)
