@@ -24,4 +24,4 @@
 </p>
 
 ### Personal Discord Server
-![Discord Banner 4](https://discordapp.com/api/guilds/840687406982234123/widget.png?style=banner1)
+![Discord Banner 4](https://discordapp.com/api/guilds/773956587164270663/widget.png?style=banner1)
